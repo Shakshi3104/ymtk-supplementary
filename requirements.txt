@@ -31,3 +31,5 @@ torch
 
 transformers
 huggingface_hub
+
+yomitoku
