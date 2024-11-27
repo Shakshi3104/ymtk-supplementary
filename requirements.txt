@@ -1,0 +1,33 @@
+# Utility
+pydantic
+ipython>=8.12
+psutil>=5.9
+pyyaml>=6.0
+typing_extensions
+loguru>=0.7.0
+python-dotenv
+
+# Visualization
+gradio>=5.5
+
+tqdm>=4.65
+matplotlib>=3.7
+seaborn>=0.12
+
+# Data handling
+numpy==1.26
+pandas>=2.0
+
+# Image
+opencv-python>=4.8
+pillow>=9.5
+
+# Others
+python-magic==0.4.27
+emoji>=2.6.0
+
+# NLP
+torch
+
+transformers
+huggingface_hub
