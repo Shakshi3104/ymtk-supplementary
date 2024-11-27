@@ -4,4 +4,4 @@ YMTK is a demo app of [yomitoku](https://github.com/kotaro-kinoshita/yomitoku), 
 
 ## requirements
 - yomitoku
-- pytorch==2.5.0
+- torch==2.5.0
